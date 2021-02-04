@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="298d7bca-e38d-4bad-87c3-27bbf7e79187" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/termidesk-vmware-citrix.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/termidesk-vmware-citrix.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,7 +44,7 @@
       <updated>1612366053303</updated>
       <workItem from="1612366054456" duration="13735000" />
       <workItem from="1612426793759" duration="8933000" />
-      <workItem from="1612437890354" duration="7643000" />
+      <workItem from="1612437890354" duration="8093000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1612367101778</created>
@@ -152,7 +151,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612444413498</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="add">
+      <created>1612445855110</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1612445855110</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -165,14 +171,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1612444411421">
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1612445851939">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612444411421" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1612444458772">
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612445851939" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1612445857155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612444458772" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612445857155" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1612373761119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
