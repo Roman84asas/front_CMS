@@ -3,7 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="298d7bca-e38d-4bad-87c3-27bbf7e79187" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Увеон/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/Увеон/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,7 +35,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1612366053303</updated>
-      <workItem from="1612366054456" duration="13052000" />
+      <workItem from="1612366054456" duration="13735000" />
+      <workItem from="1612426793759" duration="8915000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1612367101778</created>
@@ -65,7 +66,28 @@
       <option name="project" value="LOCAL" />
       <updated>1612378713079</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add">
+      <created>1612379550519</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1612379550519</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add">
+      <created>1612431655372</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1612431655372</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add">
+      <created>1612435684554</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1612435684554</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -78,14 +100,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1612378708158">
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1612435681222">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612378708158" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1612378720070">
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612435681222" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1612435685693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612378720070" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612435685693" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1612373761119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
