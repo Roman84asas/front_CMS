@@ -46,6 +46,8 @@ html {
   font-family: 'Roboto', sans-serif; }
 
 body {
+  margin: 0;
+  padding: 0;
   display: -webkit-flex;
   display: -moz-flex;
   display: -ms-flex;
@@ -56,8 +58,6 @@ body {
   min-height: 100vh; }
 
 html {
-  min-width: 1200px;
-  max-width: 1200px;
   padding: 0;
   margin: 0 auto;
   border: none; }
@@ -67,7 +67,8 @@ a {
 
 .wrapper {
   max-width: 1200px;
-  width: 100%; }
+  width: 100%;
+  margin: 0 auto; }
 
 .mobile_burger_opened {
   display: none; }
@@ -223,6 +224,17 @@ a {
   min-height: 850px;
   height: auto;
   background-color: #ffffff; }
+  .top_section .wrapper .top_section_body .background_top_image {
+    margin: 150px auto 0 auto;
+    max-width: 350px;
+    width: 100%;
+    height: auto;
+    position: relative;
+    z-index: 1; }
+    .top_section .wrapper .top_section_body .background_top_image img {
+      max-width: 350px;
+      width: 100%;
+      height: auto; }
   .top_section .wrapper .top_section_body .background_top {
     position: absolute;
     left: 0;

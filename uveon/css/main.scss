@@ -109,6 +109,19 @@
             min-height: 850px;
             height: auto;
             background-color: #ffffff;
+            .background_top_image {
+                margin: 150px auto 0 auto;
+                max-width: 350px;
+                width: 100%;
+                height: auto;
+                position: relative;
+                z-index: 1;
+                img {
+                    max-width: 350px;
+                    width: 100%;
+                    height: auto;
+                }
+            }
             .background_top {
                 position: absolute;
                 left: 0;

@@ -49,6 +49,8 @@ html {
 }
 
 body {
+    margin: 0;
+    padding: 0;
     display: -webkit-flex;
     display: -moz-flex;
     display: -ms-flex;
@@ -60,8 +62,6 @@ body {
 }
 
 html {
-    min-width: 1200px;
-    max-width: 1200px;
     padding: 0;
     margin: 0 auto;
     border: none
@@ -72,6 +72,7 @@ a {
 .wrapper {
     max-width: 1200px;
     width: 100%;
+    margin: 0 auto;
 }
 .mobile_burger_opened {
     display: none;
