@@ -105,7 +105,7 @@
         <div class="top_section_body" id="top_section_body_1">
             <div class="background_top"></div>
             <div class='background_top_image'>
-                <img class='top_section_lazyload_top' data-original='img/bglogo.png' src="img/bglogo.png">
+                <img class='top_section_lazyload_top' data-original='img/bglogo.png' src="img/bglogo.png" loading="lazy">
             </div>
             <div class='top_section_body_title'>
                 УВЕОН
@@ -113,20 +113,42 @@
             <div class='top_section_body_text'>
                 Российский разработчик решений для унифицированной виртуализации рабочих станций
             </div>
-            <div class='background_top_image_next'>
-                <img class='top_section_lazyload_next' data-original='img/arrow_white.gif' src="img/arrow_white.gif">
-            </div>
+            <a href="#decision_section_1" class='background_top_image_next'>
+                <img class='top_section_lazyload_next' data-original='img/arrow_white.gif' src="img/arrow_white.gif" loading="lazy">
+            </a>
         </div>
     </div>
     <script>
-        $(".top_section_lazyload_top").lazyload();
-        $(".top_section_lazyload_next").lazyload();
+        $( document ).ready(function() {
+            $(".top_section_lazyload_top").lazyload();
+            $(".top_section_lazyload_next").lazyload();
+        });
         var topSectionBody = document.querySelector('.top_section').clientHeight;
         var backgroundTop = document.querySelector('.background_top');
         backgroundTop.style.minHeight = topSectionBody + 'px';
     </script>
 </section>
 <!--Конец Верхней секции -->
+
+<!-- Начало секции Решение -->
+<section class="decision_section" id="decision_section_1">
+    <div class='wrapper'>
+        <div class="decision_section_body">
+            <div class='decision_section_title'>О РЕШЕНИИ VDI </div>
+            <div class='decision_section_text'>
+                <span>
+                Инфраструктура VDI подразумевает замену привычных персональных компьютеров на виртуальные машины,
+                запускаемые на выделенных серверах и отображаемыми пользователям при помощи тонких клиентов.
+                </span>
+                <span>
+               Связность между виртуальными машинами и тонкими клиентами обеспечивается при помощи сети передачи данных, как локальной, так и Интернет.
+                </span>
+            </div>
+        </div>
+    </div>
+</section>
+<!--Конец секции -->
+
 <script src="js/index.js"></script>
 </body>
 </html>
