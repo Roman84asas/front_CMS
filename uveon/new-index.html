@@ -85,29 +85,46 @@
             <div class="header_block_right_hr"><hr></div>
         </div>
     </div>
+    <script>
+        window.addEventListener('scroll', function() {
+            var header_block = document.querySelector(".header_block");
+            if(pageYOffset > 200){
+                header_block.style.backgroundColor = 'rgba(44, 60, 76, 0.2)';
+            } else {
+
+                header_block.style.backgroundColor = 'rgba(44, 60, 76, 0)';
+            }
+        });
+    </script>
 </header>
 <!--Конец секции -->
 
 <!-- Начало Верхней титульной секции  -->
 <section class="top_section">
     <div class='wrapper'>
-        <div class="top_section_body">
+        <div class="top_section_body" id="top_section_body_1">
             <div class="background_top"></div>
             <div class='background_top_image'>
-                <img class='top_section_lazyload' data-original='img/bglogo.png' src="img/bglogo.png">
+                <img class='top_section_lazyload_top' data-original='img/bglogo.png' src="img/bglogo.png">
             </div>
-            <div class=''>
-                <div class=''>Российский разработчик решений для унифицированной виртуализации рабочих станций</div>
+            <div class='top_section_body_title'>
+                УВЕОН
             </div>
-            <div class=''>
-                <div class=''>УВЕОН</div>
+            <div class='top_section_body_text'>
+                Российский разработчик решений для унифицированной виртуализации рабочих станций
             </div>
-            <div class='' >
-                <img class='top_section_lazyload' data-original='img/arrow_white.gif'>
+            <div class='background_top_image_next'>
+                <img class='top_section_lazyload_next' data-original='img/arrow_white.gif' src="img/arrow_white.gif">
             </div>
         </div>
     </div>
-    <script>$(".top_section_lazyload").lazyload();</script>
+    <script>
+        $(".top_section_lazyload_top").lazyload();
+        $(".top_section_lazyload_next").lazyload();
+        var topSectionBody = document.querySelector('.top_section').clientHeight;
+        var backgroundTop = document.querySelector('.background_top');
+        backgroundTop.style.minHeight = topSectionBody + 'px';
+    </script>
 </section>
 <!--Конец Верхней секции -->
 <script src="js/index.js"></script>
