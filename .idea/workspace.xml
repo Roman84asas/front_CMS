@@ -1,7 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="298d7bca-e38d-4bad-87c3-27bbf7e79187" name="Default Changelist" comment="" />
+    <list default="true" id="298d7bca-e38d-4bad-87c3-27bbf7e79187" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/uveon/css/custom.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uveon/css/custom.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uveon/css/custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uveon/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uveon/css/main.css.map" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/uveon/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,6 +22,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="HTML File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
@@ -30,6 +39,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -43,6 +53,7 @@
       <workItem from="1612366054456" duration="13735000" />
       <workItem from="1612426793759" duration="8933000" />
       <workItem from="1612437890354" duration="20587000" />
+      <workItem from="1612601940087" duration="465000" />
     </task>
     <task id="LOCAL-00001" summary="add">
       <created>1612367101778</created>
@@ -275,6 +286,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612459161224" />
+    <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1612602060570">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="628" y="297" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612602060570" />
     <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1612459167214">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
