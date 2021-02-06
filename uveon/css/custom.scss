@@ -69,6 +69,10 @@ html {
 a {
     text-decoration: none;
 }
+.wrapper {
+    max-width: 1200px;
+    width: 100%;
+}
 .mobile_burger_opened {
     display: none;
 }

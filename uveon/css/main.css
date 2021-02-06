@@ -65,6 +65,10 @@ html {
 a {
   text-decoration: none; }
 
+.wrapper {
+  max-width: 1200px;
+  width: 100%; }
+
 .mobile_burger_opened {
   display: none; }
 
@@ -185,7 +189,52 @@ a {
           -webkit-transition: color 0.3s ease-in-out, opacity 0.3s ease-in-out;
           transition: color 0.3s ease-in-out, opacity 0.3s ease-in-out;
           position: relative; }
+          .header_block .wrapper .header_block_right .header_block_right_list .list_item .list_item_link::after {
+            content: '';
+            position: absolute;
+            left: 0;
+            bottom: 20%;
+            opacity: 0;
+            width: 100%;
+            height: 100%;
+            border-bottom: 1px solid #ffffff;
+            -webkit-box-shadow: inset 0px -1px 0px 0px #ffffff;
+            -moz-box-shadow: inset 0px -1px 0px 0px #ffffff;
+            box-shadow: inset 0px -1px 0px 0px #ffffff;
+            -webkit-transition: all 0.3s ease;
+            transition: all 0.3s ease; }
+          .header_block .wrapper .header_block_right .header_block_right_list .list_item .list_item_link:hover {
+            color: #ffffff; }
+            .header_block .wrapper .header_block_right .header_block_right_list .list_item .list_item_link:hover::after {
+              opacity: 1;
+              bottom: -1px; }
       .header_block .wrapper .header_block_right .header_block_right_list .list_item:first-child {
         padding-left: 0; }
+      .header_block .wrapper .header_block_right .header_block_right_list .list_item:last-child {
+        padding-right: 0; }
+  .header_block .wrapper .header_block_right_hr hr {
+    margin: 0 20px 0 20px;
+    background-color: #ffffff;
+    height: 1px;
+    opacity: 0.2;
+    border: none; }
+
+.top_section .wrapper .top_section_body {
+  min-height: 850px;
+  height: auto;
+  background-color: #ffffff; }
+  .top_section .wrapper .top_section_body .background_top {
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 0;
+    width: 100%;
+    min-height: 850px;
+    height: 40vh;
+    background-position: center center;
+    background-attachment: fixed;
+    background-image: url(../img/bgimg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat; }
 
 /*# sourceMappingURL=main.css.map */
