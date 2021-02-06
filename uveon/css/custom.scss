@@ -1,7 +1,72 @@
-.wrapper {
+@import url(https://fonts.googleapis.com/css?family=Roboto:300,400,500,600,700&subset=latin,cyrillic);
+
+html, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+  font-family: 'Roboto', sans-serif;
+}
+
+/* make sure to set some focus styles for accessibility */
+:focus {
+  outline: 0;
+}
+
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure,
+footer, header, hgroup, menu, nav, section {
+  display: block;
+}
+
+/**
+ * 1. Correct text resizing oddly in IE 6/7 when body `font-size` is set using
+ *    `em` units.
+ * 2. Prevent iOS text size adjust after orientation change, without disabling
+ *    user zoom.
+ */
+
+html {
+  font-size: 100%; /* 1 */
+  -webkit-text-size-adjust: 100%; /* 2 */
+  -ms-text-size-adjust: 100%; /* 2 */
+  overflow-x: hidden;
+  font-family: 'Roboto', sans-serif;
+}
+
+
+body {
+  display: -webkit-flex;
+  display: -moz-flex;
+  display: -ms-flex;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  min-height: 100vh;
+
+}
+
+html {
+  min-width: 1200px;
   max-width: 1200px;
-  width: 100%;
+  padding: 0;
   margin: 0 auto;
+  border: none
 }
 .link {
   color: #00aaff;
