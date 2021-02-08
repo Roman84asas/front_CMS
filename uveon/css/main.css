@@ -144,6 +144,9 @@ a {
 .short_section {
   min-height: 400px !important; }
 
+.plus-bb {
+  margin: 50px 0 0 0; }
+
 .header_block {
   background-color: rgba(44, 60, 76, 0);
   box-shadow: none;
