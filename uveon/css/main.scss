@@ -656,4 +656,40 @@
         }
     }
 }
-//
+//Секция Линк Демо
+.link_demo {
+    padding-bottom: 60px;
+    .wrapper {
+        .link_demo_btn {
+            padding-left: 25px;
+            padding-right: 25px;
+            align-items: center;
+            max-width: 350px;
+            width: 100%;
+            min-height: 60px;
+            height: 100%;
+            margin: 0 auto;
+            border-width: 1px;
+            border-radius: 30px;
+            background-color: #ffffff;
+            text-decoration: none;
+            background-position: center center;
+            border-color: #e4e7ea;
+            border-style: solid;
+            transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, border-color 0.2s ease-in-out;
+            box-shadow: 0 7px 14px 0 rgba(127, 136, 144,  20%);
+            span {
+                color: #263139;
+                font-size: 14px;
+                line-height: 1;
+                font-weight: 500;
+                letter-spacing: 2px;
+            }
+            img {
+                height: 26px;
+                width: 26px;
+                margin-right: 20px;
+            }
+        }
+    }
+}
