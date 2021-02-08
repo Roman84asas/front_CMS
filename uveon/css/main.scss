@@ -431,3 +431,29 @@
     }
 }
 //С картинкой Вниз
+.arrow_to_down {
+    .arrow_to_down_body {
+        height: 50px;
+        background-color: #ffffff;
+        position: relative;
+        width: 100%;
+        overflow: hidden;
+        .arrow_to_down_all {
+            width: 70px;
+            height: 70px;
+            margin: -35px auto;
+            .arrow_to_down_me {
+                -webkit-transform: rotate(45deg);
+                -moz-transform: rotate(45deg);
+                transform: rotate(45deg);
+                background-color: #f8f9fb;
+                background-position: center center;
+                border-color: transparent;
+                border-style: solid;
+                vertical-align: middle;
+                width: 100%;
+                height: 100%;
+            }
+        }
+    }
+}
