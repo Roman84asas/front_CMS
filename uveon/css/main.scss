@@ -357,6 +357,15 @@
             }
         }
     }
+    @media (max-width: 995px) {
+        .wrapper {
+            .top_section_body {
+                .top_section_body_title {
+                    font-size: 70px;
+                }
+            }
+        }
+    }
 }
 
 .decision_section {

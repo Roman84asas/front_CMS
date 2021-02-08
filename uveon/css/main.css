@@ -430,6 +430,9 @@ a {
         .top_section .wrapper .top_section_body .background_top_image_next img {
           width: 40px;
           height: auto; }
+  @media (max-width: 995px) {
+    .top_section .wrapper .top_section_body .top_section_body_title {
+      font-size: 70px; } }
 
 .decision_section {
   background-color: #f8f9fb; }
