@@ -422,12 +422,14 @@
         .wrapper {
             .decision_section_body {
                 .decision_section_title {
+                    font-size: 40px;
                     &:after {
                         left: 41%;
                     }
                 }
             }
         }
+        padding-bottom: 15px;
     }
 }
 //Секция c картинкой Вниз
@@ -689,6 +691,81 @@
                 height: 26px;
                 width: 26px;
                 margin-right: 20px;
+            }
+        }
+        @media (max-width: 390px) {
+            .link_demo_btn {
+                padding-left: 10px;
+                padding-right: 10px;
+                max-width: 250px;
+            }
+        }
+    }
+}
+//Секция Диспетчер подключений перичесление
+.connection_manager {
+    min-height: 490px;
+    height: 100%;
+    background-color: #ffffff;
+    .wrapper {
+        .connection_manager_body {
+            justify-content: space-between;
+            padding-top: 85px;
+            .connection_manager_item {
+                position: relative;
+                height: 70px;
+                width: 335px;
+                background-color: #f8f9fb;
+                background-position: center center;
+                border-color: transparent;
+                border-style: solid;
+                counter-increment: my-counter;
+                margin-bottom: 130px;
+                &:before {
+                    content: counter(my-counter);
+                    color: #666666;
+                    line-height: 1.55;
+                    font-weight: 300;
+                    font-size: 120px;
+                    margin-top: -60px;
+                    margin-left: 15px;
+                }
+                .descr {
+                    margin-left: 20px;
+                    align-items: center;
+                    max-width: 210px;
+                    color: #333333;
+                    font-size: 12px;
+                    line-height: 1.55;
+                    font-weight: 400;
+                    background-position: center center;
+                    border-color: transparent;
+                    border-style: solid;
+                }
+            }
+        }
+        @media (max-width: 1050px) {
+            .connection_manager_body {
+                justify-content: center;
+                .connection_manager_item {
+                    margin-bottom: 90px;
+                }
+                .connection_manager_item:nth-child(odd) {
+                    margin-right: 40px;
+                }
+            }
+        }
+        @media (max-width: 710px) {
+            .connection_manager_body {
+                .connection_manager_item {
+                    margin-bottom: 80px;
+                    margin-right: 5px;
+                    margin-left: 5px;
+                }
+                .connection_manager_item:nth-child(odd) {
+                    margin-right: 5px;
+                    margin-left: 5px;
+                }
             }
         }
     }
