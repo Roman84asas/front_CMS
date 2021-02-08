@@ -503,4 +503,36 @@ a {
       width: 100%;
       height: 100%; }
 
+.section_VC {
+  padding-top: 45px;
+  padding-bottom: 105px;
+  background-color: #ffffff; }
+  .section_VC .wrapper .section_VC_body {
+    min-height: 255px;
+    width: 100%; }
+    .section_VC .wrapper .section_VC_body .section_VC_img {
+      max-width: 484px;
+      height: auto; }
+      .section_VC .wrapper .section_VC_body .section_VC_img .section_VC_c {
+        background-position: center center;
+        border-color: transparent;
+        border-style: solid;
+        display: table-cell;
+        vertical-align: middle;
+        width: 100%; }
+        .section_VC .wrapper .section_VC_body .section_VC_img .section_VC_c img {
+          width: 100%;
+          display: block; }
+  @media (max-width: 925px) {
+    .section_VC {
+      padding-top: 15px; } }
+  @media (max-width: 625px) {
+    .section_VC {
+      padding-bottom: 75px; }
+      .section_VC .wrapper .section_VC_body {
+        justify-content: unset;
+        flex-direction: column; }
+        .section_VC .wrapper .section_VC_body .section_VC_img {
+          padding-bottom: 15px; } }
+
 /*# sourceMappingURL=main.css.map */
