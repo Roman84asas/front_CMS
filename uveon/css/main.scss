@@ -798,3 +798,65 @@
         }
     }
 }
+//Секция Диспетчер подключений Задачи
+.connection_manager_tasks {
+    padding-bottom: 60px;
+    padding-top: 50px;
+    .wrapper {
+        .connection_manager_tasks_body {
+            justify-content: space-between;
+            .connection_manager_tasks_item {
+                position: relative;
+                width: 260px;
+                height: auto;
+                margin-bottom: 35px;
+                .image_taska {
+                    display: block;
+                    width: 80px;
+                    height: 75px;
+                    margin-left: auto;
+                    margin-right: auto;
+                }
+                .desc {
+                    margin-top: 25px;
+                    color: #555555;
+                    font-size: 15px;
+                    text-align: center;
+                    line-height: 1.55;
+                    font-weight: 300;
+                    background-position: center center;
+                    border-color: transparent;
+                    border-style: solid;
+                }
+                &:after {
+                    position: absolute;
+                    content: '';
+                    height: 9px;
+                    width: 9px;
+                    background-color: #00aaff;
+                    border-radius: 50%;
+                    bottom: -25px;
+                    left: 50%;
+                }
+            }
+        }
+        @media (max-width: 1040px) {
+            .connection_manager_tasks_body {
+                max-width: 520px;
+                margin-left: auto;
+                margin-right: auto;
+            }
+        }
+        @media (max-width: 520px) {
+            .connection_manager_tasks_body {
+                max-width: 260px;
+                .connection_manager_tasks_item {
+                    margin-bottom: 60px;
+                }
+                .connection_manager_tasks_item:last-child {
+                    margin-bottom: 40px;
+                }
+            }
+        }
+    }
+}
