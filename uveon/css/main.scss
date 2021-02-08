@@ -418,7 +418,7 @@
             }
         }
     }
-    @media (max-width: 375px) {
+    @media (max-width: 440px) {
         .wrapper {
             .decision_section_body {
                 .decision_section_title {
@@ -855,6 +855,84 @@
                 }
                 .connection_manager_tasks_item:last-child {
                     margin-bottom: 40px;
+                }
+            }
+        }
+    }
+}
+//Секция Таблица малая
+.table_small {
+    padding-top: 30px;
+    background-color: #ffffff;
+    .wrapper {
+        .arrow_to_down_all {
+            height: auto;
+            width: 100%;
+            .table_small_b {
+                width: 100%;
+                .table_small_c {
+                    min-height: 65px;
+                    width: 25%;
+                    color: #555555;
+                    font-size: 16px;
+                    line-height: 1.55;
+                    font-weight: 300;
+                    padding: 15px 20px;
+                    .table_small_c_h {
+                        border-radius: 20px;
+                        background-color: #00aaff;
+                        background-position: center center;
+                        border-color: transparent;
+                        border-style: solid;
+                        height: 35px;
+                        color: #ffffff;
+                        font-size: 16px;
+                        justify-content: center;
+                        align-items: center;
+                        line-height: 1.55;
+                        font-weight: 700;
+                    }
+                }
+            }
+            .table_small_b:first-child {
+                .table_small_c {
+                    padding: 0 20px;
+                    min-height: 40px;
+                }
+            }
+            .bc-gr {
+                background-color: #f8f9fb;
+            }
+            @media (max-width: 705px) {
+                .table_small_b {
+                    .table_small_c {
+                        font-size: 12px;
+                        padding: 10px 10px;
+                        .table_small_c_h {
+                            font-size: 12px;
+                        }
+                    }
+                }
+                .table_small_b:first-child {
+                    .table_small_c {
+                        padding: 0 10px;
+                    }
+                }
+            }
+            @media (max-width: 475px) {
+                .table_small_b {
+                    .table_small_c {
+                        font-size: 10px;
+                        padding: 5px 5px;
+                        .table_small_c_h {
+                            font-size: 10px;
+                        }
+                    }
+                }
+                .table_small_b:first-child {
+                    .table_small_c {
+                        padding: 0 5px;
+                    }
                 }
             }
         }
