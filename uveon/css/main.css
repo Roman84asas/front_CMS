@@ -759,4 +759,23 @@ a {
       margin-right: 5px;
       margin-left: 5px; } }
 
+.custom_block_text {
+  padding-top: 15px;
+  padding-bottom: 0px; }
+  .custom_block_text .wrapper .custom_block_body {
+    font-size: 22px;
+    text-align: center;
+    color: #263139;
+    font-weight: 300; }
+
+.custom_block_image {
+  padding-top: 0;
+  padding-bottom: 45px; }
+  .custom_block_image .wrapper .custom_block_image_body {
+    max-width: 1160px;
+    margin: 0 auto; }
+    .custom_block_image .wrapper .custom_block_image_body img {
+      width: 100%;
+      height: auto; }
+
 /*# sourceMappingURL=main.css.map */

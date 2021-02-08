@@ -770,3 +770,31 @@
         }
     }
 }
+//Секция Кастомные с текстом
+.custom_block_text {
+    padding-top: 15px;
+    padding-bottom: 0px;
+    .wrapper {
+        .custom_block_body {
+            font-size: 22px;
+            text-align: center;
+            color: #263139;
+            font-weight: 300;
+        }
+    }
+}
+//Секция Кастомные с изображением
+.custom_block_image {
+    padding-top: 0;
+    padding-bottom: 45px;
+    .wrapper {
+        .custom_block_image_body {
+            max-width: 1160px;
+            margin: 0 auto;
+            img {
+                width: 100%;
+                height: auto;
+            }
+        }
+    }
+}
