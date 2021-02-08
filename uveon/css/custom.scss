@@ -146,3 +146,9 @@ a {
     -webkit-box-shadow: inset 0px -1px 0px 0px #00aaff;
     -moz-box-shadow: inset 0px -1px 0px 0px #00aaff;
 }
+.line_top {
+    border-top: 1px solid #e9ecef;
+}
+.short_section {
+    min-height: 390px !important;
+}
