@@ -159,6 +159,9 @@ a {
   margin-top: 0;
   min-height: 300px !important; }
 
+.lll-b {
+  min-height: 350px !important; }
+
 .header_block {
   background-color: rgba(44, 60, 76, 0);
   box-shadow: none;

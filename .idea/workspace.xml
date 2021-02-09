@@ -6,7 +6,7 @@
       <change beforePath="$PROJECT_DIR$/uveon/css/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/custom.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/new-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/new-index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -56,14 +56,7 @@
       <workItem from="1612601940087" duration="28755000" />
       <workItem from="1612768670974" duration="15783000" />
       <workItem from="1612791933952" duration="14764000" />
-      <workItem from="1612862591243" duration="4616000" />
-    </task>
-    <task id="LOCAL-00010" summary="add">
-      <created>1612439272821</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1612439272821</updated>
+      <workItem from="1612862591243" duration="5512000" />
     </task>
     <task id="LOCAL-00011" summary="add">
       <created>1612439810911</created>
@@ -401,7 +394,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612807947813</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="add">
+      <created>1612867363014</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1612867363015</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -426,10 +426,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="704" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612606021080" />
-    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1612807946213">
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1612867360235">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612807946213" />
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612867360235" />
     <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1612602060570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -438,10 +438,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612615476914" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1612807948931">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1612867365346">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612807948931" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612867365346" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1612373761119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
