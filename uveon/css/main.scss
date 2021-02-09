@@ -415,6 +415,35 @@
                     margin-bottom: 30px;
                     display: block;
                 }
+                .decision_section_text_all {
+                    justify-content: center;
+                    .decision_section_item {
+                        width: fit-content;
+                        margin: 0 auto;
+                        img {
+                            margin-top: auto;
+                            margin-bottom: auto;
+                            height: 14px;
+                            width: auto;
+                            margin-right: 35px;
+                        }
+                        span {
+                            display: block;
+                            color: #555555;
+                            font-size: 18px;
+                            line-height: 1.55;
+                            font-weight: 300;
+                            background-position: center center;
+                            border-color: transparent;
+                            border-style: solid;
+                            margin-bottom: 0;
+                            strong {
+                                font-weight: 700;
+                                font-size: 30px;
+                            }
+                        }
+                    }
+                }
             }
         }
     }

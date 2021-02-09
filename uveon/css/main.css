@@ -501,6 +501,30 @@ a {
       .decision_section .wrapper .decision_section_body .decision_section_text span {
         margin-bottom: 30px;
         display: block; }
+      .decision_section .wrapper .decision_section_body .decision_section_text .decision_section_text_all {
+        justify-content: center; }
+        .decision_section .wrapper .decision_section_body .decision_section_text .decision_section_text_all .decision_section_item {
+          width: fit-content;
+          margin: 0 auto; }
+          .decision_section .wrapper .decision_section_body .decision_section_text .decision_section_text_all .decision_section_item img {
+            margin-top: auto;
+            margin-bottom: auto;
+            height: 14px;
+            width: auto;
+            margin-right: 35px; }
+          .decision_section .wrapper .decision_section_body .decision_section_text .decision_section_text_all .decision_section_item span {
+            display: block;
+            color: #555555;
+            font-size: 18px;
+            line-height: 1.55;
+            font-weight: 300;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+            margin-bottom: 0; }
+            .decision_section .wrapper .decision_section_body .decision_section_text .decision_section_text_all .decision_section_item span strong {
+              font-weight: 700;
+              font-size: 30px; }
   @media (max-width: 440px) {
     .decision_section {
       padding-bottom: 15px; }
