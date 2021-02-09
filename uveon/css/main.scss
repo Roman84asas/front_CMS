@@ -1052,3 +1052,32 @@
         }
     }
 }
+//Секция footer
+footer {
+    background-color: #2c3c4c;
+    min-height: 250px;
+    .wrapper {
+        .body_footer {
+            width: fit-content;
+            margin: 65px auto 15px auto;
+            max-width: 220px;
+            height: auto;
+            img {
+                max-width: 220px;
+                height: auto;
+            }
+        }
+        span {
+            display: block;
+            margin: 0 auto;
+            width: fit-content;
+            color: #cccccc;
+            font-size: 13px;
+            line-height: 1.55;
+            font-weight: 400;
+            background-position: center center;
+            border-color: transparent;
+            border-style: solid;
+        }
+    }
+}

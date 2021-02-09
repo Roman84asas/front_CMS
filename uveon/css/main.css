@@ -989,4 +989,27 @@ a {
       .table_small .wrapper .arrow_to_down_all .table_small_b:first-child .table_small_c {
         padding: 0 5px; } }
 
+footer {
+  background-color: #2c3c4c;
+  min-height: 250px; }
+  footer .wrapper .body_footer {
+    width: fit-content;
+    margin: 65px auto 15px auto;
+    max-width: 220px;
+    height: auto; }
+    footer .wrapper .body_footer img {
+      max-width: 220px;
+      height: auto; }
+  footer .wrapper span {
+    display: block;
+    margin: 0 auto;
+    width: fit-content;
+    color: #cccccc;
+    font-size: 13px;
+    line-height: 1.55;
+    font-weight: 400;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid; }
+
 /*# sourceMappingURL=main.css.map */

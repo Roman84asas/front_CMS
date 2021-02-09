@@ -6,8 +6,8 @@
       <change beforePath="$PROJECT_DIR$/uveon/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/new-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/new-index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/termidesk-vmware-citrix.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/termidesk-vmware-citrix.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,14 +57,7 @@
       <workItem from="1612601940087" duration="28755000" />
       <workItem from="1612768670974" duration="15783000" />
       <workItem from="1612791933952" duration="14764000" />
-      <workItem from="1612862591243" duration="8515000" />
-    </task>
-    <task id="LOCAL-00012" summary="add">
-      <created>1612442448493</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1612442448493</updated>
+      <workItem from="1612862591243" duration="10115000" />
     </task>
     <task id="LOCAL-00013" summary="add">
       <created>1612443053994</created>
@@ -402,7 +395,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612868148925</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="add">
+      <created>1612872851359</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1612872851359</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -427,10 +427,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="704" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612606021080" />
-    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1612868145362">
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1612872849317">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612868145362" />
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612872849317" />
     <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1612602060570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -439,13 +439,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612615476914" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1612868150414">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1612872852549">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612868150414" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612872852549" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1612373761119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="253" width="585" height="534" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612373761119" />
+    <state x="616" y="235" key="run.anything.popup" timestamp="1612874054062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="235" key="run.anything.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1612874054062" />
   </component>
 </project>
