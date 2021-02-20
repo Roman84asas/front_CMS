@@ -30,15 +30,17 @@
     <link rel="stylesheet" href="css/main.css" type="text/css" media="all" />
 
     <script src="js/jquery-1.10.2.min.js"></script>
+    <script src="js/jquery-migrate-1.2.1.min.js"></script>
+    <script src="js/slick.js"></script>
     <script src="js/scripts-2.8.min.js"></script>
-    <script src="js/blocks-2.7.js"></script>
+    <script src="js/map-1.0.min.js"></script>
+    <script src="js/lazyload.min.js"></script>
+
     <script src="js/slds-1.4.min.js"></script>
+    <script src="js/blocks-2.7.js"></script>
     <script src="js/hammer.min.js"></script>
     <script src="js/zoom-2.0.min.js"></script>
     <script src="js/animation-1.0.min.js"></script>
-    <script src="js/map-1.0.min.js"></script>
-    <script src="js/lazyload-1.3.min.js"></script>
-    <script src="js/lazyload.min.js"></script>
 </head>
 
 <body>
@@ -738,7 +740,7 @@
 </section>
 <!--Конец секции -->
 
-<!-- Начало секции Слайдер -->
+<!-- Начало секции Слайдер-->
 <div id="rec40035051" class="r t-rec t-rec_pt_90 t-rec_pb_90" style="padding-top:50px;padding-bottom:50px; " data-animationappear="off" data-record-type="670" >
     <div class="t670">
         <div class="t-slds" style="visibility: hidden;">
@@ -826,6 +828,12 @@
 </div>
 <!--Конец секции -->
 
+<div class="slider_section">
+    <div class="wrapper">
+        slider
+    </div>
+</div>
+
 <!-- Начало секции КОНТАКТНАЯ ИНФОРМАЦИЯ -->
 <section class="decision_section line_top" id="contact">
     <div class='wrapper'>
@@ -853,17 +861,13 @@
 <!--Конец секции -->
 
 <!-- Начало секции Карта -->
-<div id="rec41449744" class="r t-rec t-rec_pt_0 t-rec_pb_0" style="padding-top:0px;padding-bottom:0px; " data-record-type="125" >
-    <div class="t117">
-        <div class="t-width t-width_100 t-margin_auto">
-            <div class="t117_map">
-                <div class="t-map" id="separateMap41449744" data-map-language="" data-map-x="55.751979" data-map-y="37.617499" data-map-zoom="15" data-map-title="Moscow" style="width:100%; height:500px;" ></div>
-                <script type="text/javascript"> var arMapMarkers41449744 = [ {	title:"УВЕОН - ОБЛАЧНЫЕ ТЕХНОЛОГИИ",	descr:"", lat:"55.6740282",	lng:"37.5040360", }, ];
-                $(document).ready(function() { t_appendYandexMap("41449744","");});</script>
-            </div>
-        </div>
+<div id="rec41449744"  class="map" >
+    <div class="t117" id="map">
+        <div class="t-map" id="separateMap41449744" data-map-language="" data-map-x="55.751979" data-map-y="37.617499" data-map-zoom="15" data-map-title="Moscow"></div>
+        <script type="text/javascript"> var arMapMarkers41449744 = [ {	title:"УВЕОН - ОБЛАЧНЫЕ ТЕХНОЛОГИИ",	descr:"", lat:"55.6740282",	lng:"37.5040360", }, ];
+        $(document).ready(function() { t_appendYandexMap("41449744","");});</script>
     </div>
-    <script type="text/javascript"> var fireRefreshEventOnWindow = function () { var evt = document.createEvent("HTMLEvents"); evt.initEvent('resize', true, false); window.dispatchEvent(evt); }; $('.t117').bind('displayChanged',function(){ fireRefreshEventOnWindow(); });</script> </div>
+</div>
 <!--Конец секции -->
 
 <footer>
