@@ -2,23 +2,17 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="298d7bca-e38d-4bad-87c3-27bbf7e79187" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/termidesk/js/lazyload.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/js/animation-1.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/js/blocks-2.7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/js/hammer.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/js/lazyload-1.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/js/scripts-2.8.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/js/zoom-2.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/main.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/main.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/animation-1.0.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/blocks-2.12.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/grid-3.0.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/slds-1.4.min.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/js/animation-1.0.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/js/blocks-2.7.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/js/hammer.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/js/lazyload-1.3.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/js/map.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/js/slds-1.4.min.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/js/zoom-2.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/js/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,14 +74,7 @@
       <workItem from="1612791933952" duration="14764000" />
       <workItem from="1612862591243" duration="19435000" />
       <workItem from="1612959510460" duration="110000" />
-      <workItem from="1613805851047" duration="13788000" />
-    </task>
-    <task id="LOCAL-00022" summary="add">
-      <created>1612449199930</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1612449199930</updated>
+      <workItem from="1613805851047" duration="19153000" />
     </task>
     <task id="LOCAL-00023" summary="add">
       <created>1612450992843</created>
@@ -425,7 +412,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613823645017</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="add">
+      <created>1613824752067</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1613824752067</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -450,14 +444,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="704" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612606021080" />
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613824314185">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613829227380">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613824314185" />
-    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613823643601">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829227380" />
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613824750687">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613823643601" />
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613824750687" />
     <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1612602060570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -466,10 +460,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612959623682" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613823646844">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613824753404">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613823646844" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613824753404" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1612373761119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
