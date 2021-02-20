@@ -2,11 +2,23 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="298d7bca-e38d-4bad-87c3-27bbf7e79187" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/termidesk/js/lazyload.min.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/main.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/main.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/js/animation-1.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/js/blocks-2.7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/js/hammer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/js/lazyload-1.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/js/scripts-2.8.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/js/zoom-2.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/js/animation-1.0.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/js/blocks-2.7.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/js/hammer.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/js/lazyload-1.3.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/js/map.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/js/slds-1.4.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/js/zoom-2.0.min.js" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +50,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/uveon/css/fonts" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/termidesk/js" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -47,6 +59,7 @@
       <recent name="C:\Users\User\Desktop\front_CMS\termidesk" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\front_CMS\termidesk\js" />
       <recent name="C:\Users\User\Desktop\front_CMS\uveon\css\fonts" />
       <recent name="C:\Users\User\Desktop\front_CMS\termidesk\css" />
     </key>
@@ -67,14 +80,7 @@
       <workItem from="1612791933952" duration="14764000" />
       <workItem from="1612862591243" duration="19435000" />
       <workItem from="1612959510460" duration="110000" />
-      <workItem from="1613805851047" duration="12681000" />
-    </task>
-    <task id="LOCAL-00021" summary="add">
-      <created>1612448817687</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1612448817687</updated>
+      <workItem from="1613805851047" duration="13788000" />
     </task>
     <task id="LOCAL-00022" summary="add">
       <created>1612449199930</created>
@@ -412,7 +418,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613823070637</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="add">
+      <created>1613823645017</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1613823645017</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -437,10 +450,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="704" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612606021080" />
-    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613823068211">
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1613824314185">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613823068211" />
+    <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613824314185" />
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613823643601">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613823643601" />
     <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1612602060570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -449,10 +466,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612959623682" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613823071810">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613823646844">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613823071810" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613823646844" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1612373761119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
