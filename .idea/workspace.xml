@@ -3,11 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="298d7bca-e38d-4bad-87c3-27bbf7e79187" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/new-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/new-index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/new-index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/new-index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,7 +34,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/termidesk/css" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../OSPanel/domains/linkmeup/wp-content/themes/linkmeup" />
     <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -65,14 +60,8 @@
       <workItem from="1612601940087" duration="28755000" />
       <workItem from="1612768670974" duration="15783000" />
       <workItem from="1612791933952" duration="14764000" />
-      <workItem from="1612862591243" duration="19340000" />
-    </task>
-    <task id="LOCAL-00016" summary="add">
-      <created>1612445855110</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1612445855110</updated>
+      <workItem from="1612862591243" duration="19435000" />
+      <workItem from="1612959510460" duration="110000" />
     </task>
     <task id="LOCAL-00017" summary="add">
       <created>1612446259832</created>
@@ -410,7 +399,14 @@
       <option name="project" value="LOCAL" />
       <updated>1612882095151</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="add">
+      <created>1612883803226</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1612883803226</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -435,22 +431,22 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="704" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612606021080" />
-    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1612882093855">
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1612883801635">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612882093855" />
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1612883801635" />
     <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1612602060570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="628" y="297" key="EditFileWatcherDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612602060570" />
-    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1612615476914">
+    <state x="740" y="274" key="FileChooserDialogImpl" timestamp="1612959623682">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612615476914" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1612882096455">
+    <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612959623682" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1612883804649">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612882096455" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612883804649" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1612373761119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
