@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="298d7bca-e38d-4bad-87c3-27bbf7e79187" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/uveon/css/ajax-loader.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uveon/css/fonts/slick.woff" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uveon/css/slick-theme.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uveon/css/slick.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uveon/js/jquery-migrate-1.2.1.min.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uveon/js/map.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/uveon/js/slick.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/main.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/main.scssc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.css" afterDir="false" />
@@ -75,14 +68,7 @@
       <workItem from="1612791933952" duration="14764000" />
       <workItem from="1612862591243" duration="19435000" />
       <workItem from="1612959510460" duration="110000" />
-      <workItem from="1613805851047" duration="7402000" />
-    </task>
-    <task id="LOCAL-00019" summary="add">
-      <created>1612448356944</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1612448356944</updated>
+      <workItem from="1613805851047" duration="12083000" />
     </task>
     <task id="LOCAL-00020" summary="add">
       <created>1612448509431</created>
@@ -420,7 +406,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613806321715</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="add">
+      <created>1613814929800</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1613814929800</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,10 +438,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="704" y="321" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1612606021080" />
-    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613806320346">
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613814925868">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613806320346" />
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613814925868" />
     <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1612602060570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -457,10 +450,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612959623682" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613806325226">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613814932130">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613806325226" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613814932130" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1612373761119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

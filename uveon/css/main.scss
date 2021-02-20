@@ -1052,6 +1052,156 @@
         }
     }
 }
+//Секция Slider
+.slider_section {
+    padding: 50px 0;
+    .wrapper {
+        display: flex;
+        align-items: center;
+        width: fit-content;
+        .single-item {
+            max-height: 600px;
+            height: auto;
+            max-width: 860px;
+            width: 100%;
+            overflow: hidden;
+            .slick-list {
+                max-height: 550px;
+                height: auto !important;
+                max-width: 860px;
+                width: 100%;
+                .slick-track {
+                    display: flex;
+                    .slick-slide {
+                        z-index: 1 !important;
+                        img {
+                            max-height: 550px;
+                            height: auto !important;
+                            max-width: 860px;
+                            width: 100%;
+                        }
+                    }
+                }
+            }
+            .slick-dots {
+                display: flex;
+                align-items: center;
+                margin-top: 15px;
+                justify-content: center;
+                li {
+                    width: 20px;
+                    height: 20px;
+                    margin: 0 5px;
+                    list-style-type: none;
+                    button {
+                        border: none;
+                        background-color: #c7c7c7;
+                        color: #c7c7c7;
+                        width: 8px;
+                        height: 8px;
+                        border-radius: 50%;
+                        font-size: 1px;
+                        padding: 0;
+                        cursor: pointer;
+                    }
+                }
+                .slick-active {
+                    button {
+                        border: none;
+                        background-color: #00aaff;
+                        color: #00aaff;
+                        width: 8px;
+                        height: 8px;
+                        border-radius: 50%;
+                        font-size: 1px;
+                    }
+
+                }
+            }
+        }
+        .arrow_right {
+            transform: rotate(180deg);
+            width: 40px !important;
+            height: 40px;
+            border-radius: 50%;
+            background-color: rgba(232,232,232,1);
+            margin-right: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+            svg {
+                width: 10px;
+                polyline {
+                    transition: all 0.3s ease-in-out;
+                }
+            }
+            &:hover {
+                transition: all 0.3s ease-in-out;
+                background-color: #00aaff;
+                svg {
+                    polyline {
+                        transition: all 0.3s ease-in-out;
+                        stroke: #ffffff;
+                    }
+                }
+            }
+        }
+        .arrow_left {
+            width: 40px !important;
+            height: 40px;
+            border-radius: 50%;
+            background-color: rgba(232,232,232,1);
+            margin-left: 15px;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            transition: all 0.3s ease-in-out;
+            cursor: pointer;
+            svg {
+                width: 10px;
+                polyline {
+                    transition: all 0.3s ease-in-out;
+                }
+            }
+            &:hover {
+                transition: all 0.3s ease-in-out;
+                background-color: #00aaff;
+                svg {
+                    polyline {
+                        transition: all 0.3s ease-in-out;
+                        stroke: #ffffff;
+                    }
+                }
+            }
+        }
+        @media (max-width: 970px) {
+            .arrow_right {
+                margin-right: 10px;
+            }
+            .arrow_left {
+                margin-right: 10px;
+            }
+            .single-item {
+                max-height: 450px;
+                max-width: 650px;
+                .slick-list {
+                    max-height: 400px;
+                    max-width: 650px;
+                    .slick-track {
+                        .slick-slide {
+                            img {
+                                max-height: 400px;
+                                max-width: 650px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    }
+}
 //Секция карта
 .map {
     width: 100%;
