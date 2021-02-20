@@ -1181,7 +1181,7 @@
                 margin-right: 10px;
             }
             .arrow_left {
-                margin-right: 10px;
+                margin-left: 10px;
             }
             .single-item {
                 max-height: 450px;
@@ -1198,6 +1198,64 @@
                         }
                     }
                 }
+            }
+        }
+        @media (max-width: 770px) {
+            .arrow_right {
+                margin-right: 5px;
+            }
+            .arrow_left {
+                margin-left: 5px;
+            }
+            .single-item {
+                max-height: 400px;
+                max-width: 450px;
+                .slick-list {
+                    max-height: 350px;
+                    max-width: 450px;
+                    .slick-track {
+                        .slick-slide {
+                            img {
+                                max-height: 350px;
+                                max-width: 450px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        @media (max-width: 550px) {
+            .arrow_right {
+                margin-right: -5px;
+                z-index: 2;
+            }
+            .arrow_left {
+                margin-left: -5px;
+                z-index: 2;
+            }
+            .single-item {
+                max-height: 400px;
+                max-width: 350px;
+                .slick-list {
+                    max-height: 300px;
+                    max-width: 350px;
+                    .slick-track {
+                        .slick-slide {
+                            img {
+                                max-height: 300px;
+                                max-width: 350px;
+                            }
+                        }
+                    }
+                }
+            }
+        }
+        @media (max-width: 420px) {
+            .arrow_right {
+                margin-right: -35px;
+            }
+            .arrow_left {
+                margin-left: -35px;
             }
         }
     }
