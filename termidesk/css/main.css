@@ -54,8 +54,7 @@ body {
   display: flex;
   -webkit-flex-direction: column;
   -ms-flex-direction: column;
-  flex-direction: column;
-  min-height: 100vh; }
+  flex-direction: column; }
 
 html {
   padding: 0;
@@ -169,6 +168,9 @@ a {
 
 .lll-b {
   min-height: 350px !important; }
+
+.prime {
+  opacity: 1 !important; }
 
 .header_block {
   background-color: rgba(44, 60, 76, 0);
@@ -454,7 +456,8 @@ a {
       font-size: 70px; } }
 
 .decision_section {
-  background-color: #f8f9fb; }
+  background-color: #f8f9fb;
+  opacity: 0; }
   .decision_section .wrapper .decision_section_body {
     min-height: 465px;
     text-align: center; }
@@ -550,120 +553,123 @@ a {
       width: 100%;
       height: 100%; }
 
-.connections_provides .wrapper .connections_provides_body {
-  padding: 25px 0; }
-  .connections_provides .wrapper .connections_provides_body .connections_provides_body_title {
-    color: #263139;
-    font-size: 25px;
-    margin-bottom: 25px;
-    line-height: 1.3;
-    font-weight: 300;
-    background-position: center center;
-    border-color: transparent;
-    border-style: solid; }
-  .connections_provides .wrapper .connections_provides_body ul {
-    max-width: 1140px;
-    color: #555555;
-    font-size: 18px;
-    line-height: 2;
-    font-weight: 300;
-    background-position: center center;
-    border-color: transparent;
-    border-style: solid;
-    padding-left: 20px;
-    margin-top: 0;
-    margin-bottom: 10px; }
-    .connections_provides .wrapper .connections_provides_body ul li {
-      display: list-item;
-      text-align: -webkit-match-parent; }
-      .connections_provides .wrapper .connections_provides_body ul li::marker {
-        unicode-bidi: isolate;
-        font-variant-numeric: tabular-nums;
-        text-transform: none;
-        text-indent: 0 !important;
-        text-align: start !important;
-        text-align-last: start !important; }
-      .connections_provides .wrapper .connections_provides_body ul li strong {
-        font-weight: 700; }
-  .connections_provides .wrapper .connections_provides_body em {
-    display: block;
-    margin-top: 40px;
-    color: #555555;
-    font-size: 18px;
-    font-style: italic;
-    line-height: 2;
-    font-weight: 300;
-    background-position: center center;
-    border-color: transparent;
-    border-style: solid; }
-  .connections_provides .wrapper .connections_provides_body span {
-    display: block;
-    color: #555555;
-    font-size: 18px;
-    line-height: 2;
-    font-weight: 300;
-    background-position: center center;
-    border-color: transparent;
-    border-style: solid; }
-    .connections_provides .wrapper .connections_provides_body span strong {
-      font-weight: 700; }
-.connections_provides .wrapper form {
-  padding-bottom: 35px; }
-  .connections_provides .wrapper form .form_inputsbox {
-    justify-content: space-between; }
-    .connections_provides .wrapper form .form_inputsbox .form_item {
-      margin-bottom: 20px;
-      padding-right: 20px; }
-      .connections_provides .wrapper form .form_inputsbox .form_item input {
-        color: #000;
-        border: 3px solid #00aaff;
-        background-color: #ffffff;
-        border-radius: 5px;
-        -moz-border-radius: 5px;
-        -webkit-border-radius: 5px;
-        font-size: 15px;
-        font-weight: 400;
-        height: 40px;
-        padding: 5px 10px 5px 10px;
-        margin: 0;
-        line-height: 1.33;
-        width: 275px;
-        -webkit-box-sizing: border-box;
-        -moz-box-sizing: border-box;
-        box-sizing: border-box; }
-        .connections_provides .wrapper form .form_inputsbox .form_item input::-webkit-input-placeholder {
-          font-size: 15px;
-          line-height: 1;
-          opacity: .5; }
-    .connections_provides .wrapper form .form_inputsbox .submit {
-      color: #ffffff;
-      background-color: #00aaff;
-      font-weight: 600;
-      font-size: 15px;
-      width: 275px;
-      height: 40px;
-      padding: 0 15px;
+.connections_provides {
+  opacity: 0; }
+  .connections_provides .wrapper .connections_provides_body {
+    padding: 25px 0; }
+    .connections_provides .wrapper .connections_provides_body .connections_provides_body_title {
+      color: #263139;
+      font-size: 25px;
+      margin-bottom: 25px;
+      line-height: 1.3;
+      font-weight: 300;
+      background-position: center center;
+      border-color: transparent;
+      border-style: solid; }
+    .connections_provides .wrapper .connections_provides_body ul {
+      max-width: 1140px;
+      color: #555555;
+      font-size: 18px;
+      line-height: 2;
+      font-weight: 300;
+      background-position: center center;
+      border-color: transparent;
+      border-style: solid;
+      padding-left: 20px;
+      margin-top: 0;
+      margin-bottom: 10px; }
+      .connections_provides .wrapper .connections_provides_body ul li {
+        display: list-item;
+        text-align: -webkit-match-parent; }
+        .connections_provides .wrapper .connections_provides_body ul li::marker {
+          unicode-bidi: isolate;
+          font-variant-numeric: tabular-nums;
+          text-transform: none;
+          text-indent: 0 !important;
+          text-align: start !important;
+          text-align-last: start !important; }
+        .connections_provides .wrapper .connections_provides_body ul li strong {
+          font-weight: 700; }
+    .connections_provides .wrapper .connections_provides_body em {
       display: block;
-      text-align: center;
-      border: 0 none;
-      cursor: pointer; }
-  @media (max-width: 1150px) {
+      margin-top: 40px;
+      color: #555555;
+      font-size: 18px;
+      font-style: italic;
+      line-height: 2;
+      font-weight: 300;
+      background-position: center center;
+      border-color: transparent;
+      border-style: solid; }
+    .connections_provides .wrapper .connections_provides_body span {
+      display: block;
+      color: #555555;
+      font-size: 18px;
+      line-height: 2;
+      font-weight: 300;
+      background-position: center center;
+      border-color: transparent;
+      border-style: solid; }
+      .connections_provides .wrapper .connections_provides_body span strong {
+        font-weight: 700; }
+  .connections_provides .wrapper form {
+    padding-bottom: 35px; }
     .connections_provides .wrapper form .form_inputsbox {
-      display: block; }
+      justify-content: space-between; }
       .connections_provides .wrapper form .form_inputsbox .form_item {
-        width: 100%;
-        display: flex;
-        justify-content: center; }
+        margin-bottom: 20px;
+        padding-right: 20px; }
         .connections_provides .wrapper form .form_inputsbox .form_item input {
-          margin-left: auto;
-          margin-right: auto; }
+          color: #000;
+          border: 3px solid #00aaff;
+          background-color: #ffffff;
+          border-radius: 5px;
+          -moz-border-radius: 5px;
+          -webkit-border-radius: 5px;
+          font-size: 15px;
+          font-weight: 400;
+          height: 40px;
+          padding: 5px 10px 5px 10px;
+          margin: 0;
+          line-height: 1.33;
+          width: 275px;
+          -webkit-box-sizing: border-box;
+          -moz-box-sizing: border-box;
+          box-sizing: border-box; }
+          .connections_provides .wrapper form .form_inputsbox .form_item input::-webkit-input-placeholder {
+            font-size: 15px;
+            line-height: 1;
+            opacity: .5; }
       .connections_provides .wrapper form .form_inputsbox .submit {
-        margin-left: auto;
-        margin-right: auto; } }
+        color: #ffffff;
+        background-color: #00aaff;
+        font-weight: 600;
+        font-size: 15px;
+        width: 275px;
+        height: 40px;
+        padding: 0 15px;
+        display: block;
+        text-align: center;
+        border: 0 none;
+        cursor: pointer; }
+    @media (max-width: 1150px) {
+      .connections_provides .wrapper form .form_inputsbox {
+        display: block; }
+        .connections_provides .wrapper form .form_inputsbox .form_item {
+          width: 100%;
+          display: flex;
+          justify-content: center; }
+          .connections_provides .wrapper form .form_inputsbox .form_item input {
+            margin-left: auto;
+            margin-right: auto; }
+        .connections_provides .wrapper form .form_inputsbox .submit {
+          margin-left: auto;
+          margin-right: auto; } }
 
 .custom_block_text {
   padding-top: 15px;
-  padding-bottom: 0; }
+  padding-bottom: 0;
+  opacity: 0; }
   .custom_block_text .wrapper .custom_block_body {
     color: #263139;
     font-size: 25px;

@@ -2,17 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="298d7bca-e38d-4bad-87c3-27bbf7e79187" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/termidesk/js/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/.sass-cache/f0fc6558cde18c4b55b8ca4937ab4fc6a7b7435d/custom.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/.sass-cache/f0fc6558cde18c4b55b8ca4937ab4fc6a7b7435d/custom.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/.sass-cache/f0fc6558cde18c4b55b8ca4937ab4fc6a7b7435d/main.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/.sass-cache/f0fc6558cde18c4b55b8ca4937ab4fc6a7b7435d/main.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/main.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/main.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/css/animation-1.0.min.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/css/blocks-2.12.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/css/grid-3.0.min.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/css/slds-1.4.min.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/uveon/js/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/js/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/termidesk-vmware-citrix.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/termidesk-vmware-citrix.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,14 +79,7 @@
       <workItem from="1612791933952" duration="14764000" />
       <workItem from="1612862591243" duration="19435000" />
       <workItem from="1612959510460" duration="110000" />
-      <workItem from="1613805851047" duration="19153000" />
-    </task>
-    <task id="LOCAL-00023" summary="add">
-      <created>1612450992843</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1612450992843</updated>
+      <workItem from="1613805851047" duration="24817000" />
     </task>
     <task id="LOCAL-00024" summary="add">
       <created>1612451621561</created>
@@ -419,7 +417,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613824752067</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="add">
+      <created>1613832116078</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1613832116078</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,10 +453,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829227380" />
-    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613824750687">
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613832113526">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613824750687" />
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613832113526" />
     <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1612602060570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -460,10 +465,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1612959623682" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613824753404">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613832117340">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613824753404" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613832117340" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1612373761119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

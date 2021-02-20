@@ -355,6 +355,7 @@
 //Секция ХАРАКТЕРИСТИКИ
 .decision_section {
     background-color: #f8f9fb;
+    opacity: 0;
     .wrapper {
         .decision_section_body {
             min-height: 465px;
@@ -475,6 +476,7 @@
 }
 //
 .connections_provides {
+    opacity: 0;
     .wrapper {
         .connections_provides_body {
             padding: 25px 0;
@@ -612,6 +614,7 @@
 .custom_block_text {
     padding-top: 15px;
     padding-bottom: 0;
+    opacity: 0;
     .wrapper {
         .custom_block_body {
             color: #263139;

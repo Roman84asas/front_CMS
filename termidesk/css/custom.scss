@@ -58,7 +58,6 @@ body {
     -webkit-flex-direction: column;
     -ms-flex-direction: column;
     flex-direction: column;
-    min-height: 100vh;
 }
 
 html {
@@ -177,4 +176,7 @@ a {
 }
 .lll-b {
     min-height: 350px !important;
+}
+.prime {
+    opacity: 1 !important;
 }

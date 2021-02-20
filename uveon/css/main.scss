@@ -515,6 +515,12 @@
                     }
                 }
             }
+            .right_marg {
+                margin-right: -250px;
+            }
+            .left_marg {
+                margin-left: -250px;
+            }
         }
     }
     @media (max-width: 925px) {
@@ -630,6 +636,12 @@
                     bottom: 5px;
                     background-color: #00aaff;
                 }
+            }
+            .right_marg {
+                margin-right: -250px;
+            }
+            .left_marg {
+                margin-left: -250px;
             }
             @media (max-width: 1120px) {
                 justify-content: center;
@@ -756,6 +768,9 @@
                     bottom: 5px;
                     background-color: #00aaff;
                 }
+            }
+            .left_marg {
+                margin-left: -250px;
             }
             @media (max-width: 1120px) {
                 justify-content: center;
@@ -1293,7 +1308,6 @@
 footer {
     background-color: #2c3c4c;
     min-height: 250px;
-    opacity: 0;
     .wrapper {
         .body_footer {
             width: fit-content;
