@@ -309,6 +309,54 @@ p {
     -webkit-box-shadow: inset 0px -1px 0px 0px #00aaff;
     -moz-box-shadow: inset 0px -1px 0px 0px #00aaff; }
 
+h1 {
+  margin: 15px 0 15px 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 45px;
+  line-height: 150%;
+  color: #555555; }
+
+h2 {
+  margin: 15px 0 15px 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 35px;
+  line-height: 150%;
+  color: #555555; }
+
+h3 {
+  margin: 15px 0 15px 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 30px;
+  line-height: 150%;
+  color: #555555; }
+
+h4 {
+  margin: 15px 0 15px 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 25px;
+  line-height: 150%;
+  color: #555555; }
+
+h5 {
+  margin: 15px 0 15px 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 20px;
+  line-height: 150%;
+  color: #555555; }
+
+h6 {
+  margin: 15px 0 15px 0;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 18px;
+  line-height: 150%;
+  color: #555555; }
+
 .header_block {
   background-color: rgba(44, 60, 76, 0);
   box-shadow: none;
