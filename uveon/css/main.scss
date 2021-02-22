@@ -838,6 +838,7 @@
 
     }
 }
+
 //Секция Диспетчер подключений перичесление
 .connection_manager {
     min-height: 490px;
@@ -907,7 +908,8 @@
         }
     }
 }
-//Секция Кастомные с текстом
+
+//Секция с текстом
 .custom_block_text {
     padding-top: 15px;
     padding-bottom: 0;
@@ -921,6 +923,7 @@
         }
     }
 }
+
 //Секция Диспетчер подключений Задачи
 .connection_manager_tasks {
     padding-bottom: 60px;
@@ -963,16 +966,12 @@
                     left: 50%;
                 }
             }
-        }
-        @media (max-width: 1040px) {
-            .connection_manager_tasks_body {
+            @media (max-width: 1040px) {
                 max-width: 520px;
                 margin-left: auto;
                 margin-right: auto;
             }
-        }
-        @media (max-width: 520px) {
-            .connection_manager_tasks_body {
+            @media (max-width: 520px) {
                 max-width: 260px;
                 .connection_manager_tasks_item {
                     margin-bottom: 60px;

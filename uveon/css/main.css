@@ -933,18 +933,18 @@ a {
         border-radius: 50%;
         bottom: -25px;
         left: 50%; }
-  @media (max-width: 1040px) {
-    .connection_manager_tasks .wrapper .connection_manager_tasks_body {
-      max-width: 520px;
-      margin-left: auto;
-      margin-right: auto; } }
-  @media (max-width: 520px) {
-    .connection_manager_tasks .wrapper .connection_manager_tasks_body {
-      max-width: 260px; }
-      .connection_manager_tasks .wrapper .connection_manager_tasks_body .connection_manager_tasks_item {
-        margin-bottom: 60px; }
-      .connection_manager_tasks .wrapper .connection_manager_tasks_body .connection_manager_tasks_item:last-child {
-        margin-bottom: 40px; } }
+    @media (max-width: 1040px) {
+      .connection_manager_tasks .wrapper .connection_manager_tasks_body {
+        max-width: 520px;
+        margin-left: auto;
+        margin-right: auto; } }
+    @media (max-width: 520px) {
+      .connection_manager_tasks .wrapper .connection_manager_tasks_body {
+        max-width: 260px; }
+        .connection_manager_tasks .wrapper .connection_manager_tasks_body .connection_manager_tasks_item {
+          margin-bottom: 60px; }
+        .connection_manager_tasks .wrapper .connection_manager_tasks_body .connection_manager_tasks_item:last-child {
+          margin-bottom: 40px; } }
 
 .table_small {
   padding-top: 30px;
