@@ -367,6 +367,13 @@ h6 {
   line-height: 150%;
   color: #555555; }
 
+hr {
+  width: 100%;
+  border: none;
+  background-color: #555555;
+  color: #555555;
+  height: 2px; }
+
 .header_block {
   background-color: rgba(44, 60, 76, 0);
   box-shadow: none;
