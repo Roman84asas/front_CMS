@@ -149,7 +149,7 @@ a {
     color: #ffffff;
     text-decoration: none;
     border-bottom: 1px solid #ffffff;
-    box-shadow: inset 0 0px 0 0 #ffffff;
+    box-shadow: inset 0 0 0 0 #ffffff;
     -webkit-box-shadow: inset 0 0px 0 0 #ffffff;
     -moz-box-shadow: inset 0 -0px 0 0 #ffffff;
 }
@@ -179,4 +179,86 @@ a {
 }
 .prime {
     opacity: 1 !important;
+}
+ul {
+    max-width: 1140px;
+    color: #555555;
+    font-size: 18px;
+    line-height: 2;
+    font-weight: 300;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+    padding-left: 20px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    li {
+        display: list-item;
+        text-align: -webkit-match-parent;
+        &::marker {
+            unicode-bidi: isolate;
+            font-variant-numeric: tabular-nums;
+            text-transform: none;
+            text-indent: 0 !important;
+            text-align: start !important;
+            text-align-last: start !important;
+        }
+        strong {
+            font-weight: 700;
+        }
+    }
+}
+em {
+    display: block;
+    margin-top: 40px;
+    color: #555555;
+    font-size: 18px;
+    font-style: italic;
+    line-height: 2;
+    font-weight: 300;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+}
+ol {
+    max-width: 1140px;
+    color: #555555;
+    font-size: 18px;
+    line-height: 2;
+    font-weight: 300;
+    background-position: center center;
+    border-color: transparent;
+    border-style: solid;
+    padding-left: 20px;
+    margin-top: 0;
+    margin-bottom: 10px;
+    li {
+        display: list-item;
+        text-align: -webkit-match-parent;
+        &::marker {
+            unicode-bidi: isolate;
+            font-variant-numeric: tabular-nums;
+            text-transform: none;
+            text-indent: 0 !important;
+            text-align: start !important;
+            text-align-last: start !important;
+        }
+        strong {
+            font-weight: 700;
+        }
+    }
+}
+img {
+    width: 100%;
+    height: auto;
+}
+blockquote {
+    background-color: #f8f9fb;
+    margin: 5px 15px;
+    padding: 10px;
+    border-left: 2px solid #555555;
+    color: #555555;
+    font-size: 18px;
+    line-height: 2;
+    font-weight: 300;
 }

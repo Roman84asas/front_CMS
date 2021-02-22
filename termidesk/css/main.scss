@@ -518,6 +518,34 @@
                     }
                 }
             }
+            ol {
+                max-width: 1140px;
+                color: #555555;
+                font-size: 18px;
+                line-height: 2;
+                font-weight: 300;
+                background-position: center center;
+                border-color: transparent;
+                border-style: solid;
+                padding-left: 20px;
+                margin-top: 0;
+                margin-bottom: 10px;
+                li {
+                    display: list-item;
+                    text-align: -webkit-match-parent;
+                    &::marker {
+                        unicode-bidi: isolate;
+                        font-variant-numeric: tabular-nums;
+                        text-transform: none;
+                        text-indent: 0 !important;
+                        text-align: start !important;
+                        text-align-last: start !important;
+                    }
+                    strong {
+                        font-weight: 700;
+                    }
+                }
+            }
             em {
                 display: block;
                 margin-top: 40px;
