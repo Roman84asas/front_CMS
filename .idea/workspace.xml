@@ -3,27 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="298d7bca-e38d-4bad-87c3-27bbf7e79187" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_admin_guide_i5.01-1 (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_admin_guide_i5.01-1 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_admin_guide_i5.01-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_admin_guide_i5.01-1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_comparison.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_comparison.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_digital_transformation_for_education.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_digital_transformation_for_education.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_install_guide_i2.01-1 (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_install_guide_i2.01-1 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_install_guide_i2.01-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_install_guide_i2.01-1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_install_guide_i2.01-2 (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_install_guide_i2.01-2 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_install_guide_i2.01-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_install_guide_i2.01-2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_lifecycle.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_lifecycle.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_system_pd.01.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_system_pd.01.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_user_guide_i3.01-1 (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_user_guide_i3.01-1 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_user_guide_i3.01-1.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_user_guide_i3.01-1.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_user_guide_i3.01-2.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_user_guide_i3.01-2.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_user_guide_i3.01-3 (1).pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_user_guide_i3.01-3 (1).pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_user_guide_i3.01-3.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_user_guide_i3.01-3.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/docs/termidesk_user_guide_i3.01-4.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/docs/termidesk_user_guide_i3.01-4.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/termidesk-vmware-citrix.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/termidesk-vmware-citrix.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,14 +72,7 @@
       <workItem from="1613805851047" duration="25515000" />
       <workItem from="1613894446963" duration="3029000" />
       <workItem from="1613983677463" duration="55000" />
-      <workItem from="1613986797954" duration="8682000" />
-    </task>
-    <task id="LOCAL-00038" summary="add">
-      <created>1612626610913</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1612626610913</updated>
+      <workItem from="1613986797954" duration="9409000" />
     </task>
     <task id="LOCAL-00039" summary="add">
       <created>1612632349791</created>
@@ -436,7 +410,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613995676670</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="add">
+      <created>1613996521844</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1613996521844</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -465,10 +446,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829227380" />
-    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613995675219">
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613996518413">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613995675219" />
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613996518413" />
     <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1612602060570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -477,10 +458,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613994590401" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613995678231">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613996523160">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613995678231" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613996523160" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1612373761119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
