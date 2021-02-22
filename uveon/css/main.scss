@@ -367,7 +367,8 @@
         }
     }
 }
-//Секция Решение
+
+//Секции c Title и Description
 .decision_section {
     background-color: #f8f9fb;
     opacity: 0;
@@ -489,10 +490,11 @@
         }
     }
 }
-//Секция VS
-.section_VC {
+
+//Секция c изображениями
+.section_image {
     padding-top: 45px;
-    padding-bottom: 105px;
+    padding-bottom: 75px;
     background-color: #ffffff;
     opacity: 0;
     .wrapper {
@@ -522,6 +524,14 @@
                 margin-left: -250px;
             }
         }
+        .custom_block_image_body {
+            max-width: 1160px;
+            margin: 0 auto;
+            img {
+                width: 100%;
+                height: auto;
+            }
+        }
     }
     @media (max-width: 925px) {
         padding-top: 15px;
@@ -539,10 +549,12 @@
         }
     }
 }
-//Секция Результатом внедрения
+
+//Секция Результатом внедрения и реализация VDI
 .implementation_result {
     min-height: 435px;
     background-color: #ffffff;
+    padding-bottom: 25px;
     opacity: 0;
     .wrapper {
         .implementation_result_body {
@@ -648,17 +660,7 @@
                 padding: 5px;
             }
         }
-    }
-}
-//Секция Комплексная реализация VDI
-.complex_implementation {
-    min-height: 435px;
-    padding-top: 90px;
-    padding-bottom: 30px;
-    background-color: #ffffff;
-    opacity: 0;
-    .wrapper {
-        .implementation_result_body {
+        .implementation_result_body_right {
             justify-content: space-between;
             .implementation_result_right {
                 max-width: 560px;
@@ -791,6 +793,7 @@
         }
     }
 }
+
 //Секция Линк Демо
 .link_demo {
     padding-bottom: 60px;
@@ -826,14 +829,13 @@
                 width: 26px;
                 margin-right: 20px;
             }
-        }
-        @media (max-width: 390px) {
-            .link_demo_btn {
+            @media (max-width: 390px) {
                 padding-left: 10px;
                 padding-right: 10px;
                 max-width: 250px;
             }
         }
+
     }
 }
 //Секция Диспетчер подключений перичесление
@@ -916,22 +918,6 @@
             text-align: center;
             color: #263139;
             font-weight: 300;
-        }
-    }
-}
-//Секция Кастомные с изображением
-.custom_block_image {
-    padding-top: 0;
-    padding-bottom: 45px;
-    opacity: 0;
-    .wrapper {
-        .custom_block_image_body {
-            max-width: 1160px;
-            margin: 0 auto;
-            img {
-                width: 100%;
-                height: auto;
-            }
         }
     }
 }

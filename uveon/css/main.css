@@ -556,46 +556,53 @@ a {
       width: 100%;
       height: 100%; }
 
-.section_VC {
+.section_image {
   padding-top: 45px;
-  padding-bottom: 105px;
+  padding-bottom: 75px;
   background-color: #ffffff;
   opacity: 0; }
-  .section_VC .wrapper .section_VC_body {
+  .section_image .wrapper .section_VC_body {
     min-height: 255px;
     width: 100%; }
-    .section_VC .wrapper .section_VC_body .section_VC_img {
+    .section_image .wrapper .section_VC_body .section_VC_img {
       max-width: 484px;
       height: auto; }
-      .section_VC .wrapper .section_VC_body .section_VC_img .section_VC_c {
+      .section_image .wrapper .section_VC_body .section_VC_img .section_VC_c {
         background-position: center center;
         border-color: transparent;
         border-style: solid;
         display: table-cell;
         vertical-align: middle;
         width: 100%; }
-        .section_VC .wrapper .section_VC_body .section_VC_img .section_VC_c img {
+        .section_image .wrapper .section_VC_body .section_VC_img .section_VC_c img {
           width: 100%;
           display: block; }
-    .section_VC .wrapper .section_VC_body .right_marg {
+    .section_image .wrapper .section_VC_body .right_marg {
       margin-right: -250px; }
-    .section_VC .wrapper .section_VC_body .left_marg {
+    .section_image .wrapper .section_VC_body .left_marg {
       margin-left: -250px; }
+  .section_image .wrapper .custom_block_image_body {
+    max-width: 1160px;
+    margin: 0 auto; }
+    .section_image .wrapper .custom_block_image_body img {
+      width: 100%;
+      height: auto; }
   @media (max-width: 925px) {
-    .section_VC {
+    .section_image {
       padding-top: 15px; } }
   @media (max-width: 625px) {
-    .section_VC {
+    .section_image {
       padding-bottom: 75px; }
-      .section_VC .wrapper .section_VC_body {
+      .section_image .wrapper .section_VC_body {
         justify-content: unset;
         flex-direction: column; }
-        .section_VC .wrapper .section_VC_body .section_VC_img {
+        .section_image .wrapper .section_VC_body .section_VC_img {
           padding-bottom: 15px; } }
 
 .implementation_result {
   min-height: 435px;
   background-color: #ffffff;
+  padding-bottom: 25px;
   opacity: 0; }
   .implementation_result .wrapper .implementation_result_body {
     justify-content: space-between; }
@@ -682,18 +689,11 @@ a {
       .implementation_result .wrapper .implementation_result_body {
         justify-content: center;
         padding: 5px; } }
-
-.complex_implementation {
-  min-height: 435px;
-  padding-top: 90px;
-  padding-bottom: 30px;
-  background-color: #ffffff;
-  opacity: 0; }
-  .complex_implementation .wrapper .implementation_result_body {
+  .implementation_result .wrapper .implementation_result_body_right {
     justify-content: space-between; }
-    .complex_implementation .wrapper .implementation_result_body .implementation_result_right {
+    .implementation_result .wrapper .implementation_result_body_right .implementation_result_right {
       max-width: 560px; }
-      .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_title {
+      .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_title {
         color: #263139;
         font-size: 24px;
         line-height: 1.3;
@@ -705,30 +705,30 @@ a {
         vertical-align: middle;
         width: 100%;
         margin-bottom: 25px; }
-      .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body {
+      .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body {
         margin-bottom: 15px;
         justify-content: space-between; }
-        .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all {
+        .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all {
           margin-bottom: 50px;
           align-items: center; }
-          .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all .implementation_result_left_body_all_point {
+          .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all .implementation_result_left_body_all_point {
             width: 30px;
             height: 30px;
             display: flex;
             padding: 5px; }
-            .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all .implementation_result_left_body_all_point .point {
+            .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all .implementation_result_left_body_all_point .point {
               width: 8px;
               height: 8px;
               border-radius: 50%;
               background-color: #00aaff; }
-          .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all .icon_img {
+          .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all .icon_img {
             width: 40px;
             height: 40px;
             background-position: center center;
             border-color: transparent;
             border-style: solid;
             margin-right: 20px; }
-          .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all span {
+          .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all span {
             max-width: 430px;
             display: block;
             color: #555555;
@@ -738,27 +738,27 @@ a {
             background-position: center center;
             border-color: transparent;
             border-style: solid; }
-            .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all span strong {
+            .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all span strong {
               font-weight: bold; }
-            .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all span a {
+            .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body .implementation_result_left_body_all span a {
               color: #00aaff !important;
               text-decoration: none;
               border-bottom: 1px solid #00aaff;
               box-shadow: inset 0px -1px 0px 0px #00aaff;
               -webkit-box-shadow: inset 0px -1px 0px 0px #00aaff;
               -moz-box-shadow: inset 0px -1px 0px 0px #00aaff; }
-        .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body .p-rel-t {
+        .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body .p-rel-t {
           align-items: unset;
           margin-bottom: 5px; }
-        .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body .small-tmb {
+        .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body .small-tmb {
           max-width: 260px; }
         @media (max-width: 1120px) {
-          .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body {
+          .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body {
             justify-content: center;
             padding: 5px; }
-            .complex_implementation .wrapper .implementation_result_body .implementation_result_right .implementation_result_left_body .small-tmb {
+            .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .implementation_result_left_body .small-tmb {
               margin-bottom: 20px; } }
-      .complex_implementation .wrapper .implementation_result_body .implementation_result_right .bold-r {
+      .implementation_result .wrapper .implementation_result_body_right .implementation_result_right .bold-r {
         color: #263139;
         font-size: 18px;
         line-height: 1.55;
@@ -766,15 +766,15 @@ a {
         background-position: center center;
         border-color: transparent;
         border-style: solid; }
-    .complex_implementation .wrapper .implementation_result_body .implementation_result_left {
+    .implementation_result .wrapper .implementation_result_body_right .implementation_result_left {
       max-width: 560px; }
-      .complex_implementation .wrapper .implementation_result_body .implementation_result_left .implementation_result_img {
+      .implementation_result .wrapper .implementation_result_body_right .implementation_result_left .implementation_result_img {
         max-width: 560px;
         width: 100%;
         height: auto; }
-    .complex_implementation .wrapper .implementation_result_body .p-rel {
+    .implementation_result .wrapper .implementation_result_body_right .p-rel {
       max-width: 480px; }
-      .complex_implementation .wrapper .implementation_result_body .p-rel:after {
+      .implementation_result .wrapper .implementation_result_body_right .p-rel:after {
         position: absolute;
         content: "";
         width: 70px;
@@ -782,19 +782,19 @@ a {
         left: 0;
         bottom: 5px;
         background-color: #00aaff; }
-    .complex_implementation .wrapper .implementation_result_body .left_marg {
+    .implementation_result .wrapper .implementation_result_body_right .left_marg {
       margin-left: -250px; }
     @media (max-width: 1120px) {
-      .complex_implementation .wrapper .implementation_result_body {
+      .implementation_result .wrapper .implementation_result_body_right {
         justify-content: center;
         padding: 5px; }
-        .complex_implementation .wrapper .implementation_result_body .implementation_result_left {
+        .implementation_result .wrapper .implementation_result_body_right .implementation_result_left {
           margin-bottom: 20px; } }
     @media (max-width: 730px) {
-      .complex_implementation .wrapper .implementation_result_body .implementation_result_right {
+      .implementation_result .wrapper .implementation_result_body_right .implementation_result_right {
         order: 1;
         margin-top: 25px; }
-      .complex_implementation .wrapper .implementation_result_body .implementation_result_left {
+      .implementation_result .wrapper .implementation_result_body_right .implementation_result_left {
         order: 2; } }
 
 .link_demo {
@@ -828,11 +828,11 @@ a {
       height: 26px;
       width: 26px;
       margin-right: 20px; }
-  @media (max-width: 390px) {
-    .link_demo .wrapper .link_demo_btn {
-      padding-left: 10px;
-      padding-right: 10px;
-      max-width: 250px; } }
+    @media (max-width: 390px) {
+      .link_demo .wrapper .link_demo_btn {
+        padding-left: 10px;
+        padding-right: 10px;
+        max-width: 250px; } }
 
 .connection_manager {
   min-height: 490px;
@@ -896,17 +896,6 @@ a {
     text-align: center;
     color: #263139;
     font-weight: 300; }
-
-.custom_block_image {
-  padding-top: 0;
-  padding-bottom: 45px;
-  opacity: 0; }
-  .custom_block_image .wrapper .custom_block_image_body {
-    max-width: 1160px;
-    margin: 0 auto; }
-    .custom_block_image .wrapper .custom_block_image_body img {
-      width: 100%;
-      height: auto; }
 
 .connection_manager_tasks {
   padding-bottom: 60px;
