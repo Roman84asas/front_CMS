@@ -2,11 +2,73 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="298d7bca-e38d-4bad-87c3-27bbf7e79187" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/termidesk/css/.sass-cache/f0fc6558cde18c4b55b8ca4937ab4fc6a7b7435d/custom.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/.sass-cache/f0fc6558cde18c4b55b8ca4937ab4fc6a7b7435d/custom.scssc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/css/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/custom.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/termidesk/css/main.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/css/main.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/uveon/css/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/css/custom.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/main.scssc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/css/main.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/.sass-cache/f0fc6558cde18c4b55b8ca4937ab4fc6a7b7435d/custom.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/.sass-cache/f0fc6558cde18c4b55b8ca4937ab4fc6a7b7435d/main.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/custom.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/custom.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/custom.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/main.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/css/main.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/img/arrow_white.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/arrow_white.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/img/background-2048.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/background-2048.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/img/termidesk_bg.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/termidesk_bg.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/img/termidesk_ico.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/termidesk_ico.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/img/termidesk_logo.svg" beforeDir="false" afterPath="$PROJECT_DIR$/img/termidesk_logo.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/img/termidesk_shema.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/termidesk_shema.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/img/uveon_logo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/uveon_logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/termidesk/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/termidesk/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/custom.scssc" beforeDir="false" afterPath="$PROJECT_DIR$/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/custom.scssc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/.sass-cache/1f294093a6fb0518894f5c45557ec5afe9d0d4d7/main.scssc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/ajax-loader.gif" beforeDir="false" afterPath="$PROJECT_DIR$/css/ajax-loader.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/custom.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/custom.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.css.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/custom.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/custom.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/fonts/slick.woff" beforeDir="false" afterPath="$PROJECT_DIR$/css/fonts/slick.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/main.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/main.scss" beforeDir="false" afterPath="$PROJECT_DIR$/css/main.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/slick-theme.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/slick-theme.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/css/slick.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/slick.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/arrow_white.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/bgbody.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bgbody.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/bgimg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/bgimg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/bglogo.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/bglogo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/cloud_pc.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/cloud_pc.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/consolidation.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/consolidation.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/email.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/hq.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/hq.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico01.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico01.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico02.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico03.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico03.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico04.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico05.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico05.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico06.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico06.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico07.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico07.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico08.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico08.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico09.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico09.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico10.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico10.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico11.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico11.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico12.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico12.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico13.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico13.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico16.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico16.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico17.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico17.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/ico18.gif" beforeDir="false" afterPath="$PROJECT_DIR$/img/ico18.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/mirea1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mirea1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/mirea2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mirea2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/mirea4.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/mirea4.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/plus.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/plus.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/termidesk_shema.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/uveon_logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/uvico.ico" beforeDir="false" afterPath="$PROJECT_DIR$/img/uvico.ico" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/vs.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/vs.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/w_vdi.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/w_vdi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/img/wo_vdi.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/wo_vdi.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/uveon/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/uveon/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,18 +100,20 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../OSPanel/domains/linkmeup/wp-content/themes/linkmeup" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/img" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\User\Desktop\front_CMS\termidesk" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\front_CMS\img" />
+      <recent name="C:\Users\User\Desktop\front_CMS" />
       <recent name="C:\Users\User\Desktop\front_CMS\termidesk\js" />
       <recent name="C:\Users\User\Desktop\front_CMS\uveon\css\fonts" />
       <recent name="C:\Users\User\Desktop\front_CMS\termidesk\css" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\Desktop\front_CMS\termidesk" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -71,14 +135,7 @@
       <workItem from="1613805851047" duration="25515000" />
       <workItem from="1613894446963" duration="3029000" />
       <workItem from="1613983677463" duration="55000" />
-      <workItem from="1613986797954" duration="7217000" />
-    </task>
-    <task id="LOCAL-00036" summary="add">
-      <created>1612615588017</created>
-      <option name="number" value="00036" />
-      <option name="presentableId" value="LOCAL-00036" />
-      <option name="project" value="LOCAL" />
-      <updated>1612615588017</updated>
+      <workItem from="1613986797954" duration="7837000" />
     </task>
     <task id="LOCAL-00037" summary="add">
       <created>1612618321263</created>
@@ -416,7 +473,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613994873409</updated>
     </task>
-    <option name="localTasksCounter" value="85" />
+    <task id="LOCAL-00085" summary="add">
+      <created>1613995018311</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1613995018311</updated>
+    </task>
+    <option name="localTasksCounter" value="86" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -445,10 +509,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="690" y="266" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1613829227380" />
-    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613994871651">
+    <state x="585" y="87" key="CommitChangelistDialog2" timestamp="1613995016824">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613994871651" />
+    <state x="585" y="87" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1613995016824" />
     <state x="628" y="297" key="EditFileWatcherDialog" timestamp="1612602060570">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -457,10 +521,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="274" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1613994590401" />
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613994875210">
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2" timestamp="1613995021857">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613994875210" />
+    <state x="552" y="239" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1613995021857" />
     <state x="667" y="253" width="585" height="534" key="find.popup" timestamp="1612373761119">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

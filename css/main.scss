@@ -29,6 +29,12 @@
                         height: auto;
                         display: block;
                     }
+                    .header_block_t {
+                        max-width: 244px;
+                        width: 244px;
+                        height: auto;
+                        display: block;
+                    }
                 }
             }
         }
@@ -347,6 +353,86 @@
                 position: relative;
                 display: block;
                 margin: 155px auto 5px auto;
+                width: 40px;
+                height: 40px;
+                z-index: 3;
+                img {
+                    width: 40px;
+                    height: auto;
+                }
+            }
+        }
+    }
+    @media (max-width: 995px) {
+        .wrapper {
+            .top_section_body {
+                .top_section_body_title {
+                    font-size: 70px;
+                }
+            }
+        }
+    }
+}
+
+.top_section_t {
+    margin-top: 0;
+    position: relative;
+    min-height: 590px;
+    .wrapper {
+        margin-top: 0;
+        .top_section_body {
+            min-height: 590px;
+            padding: 0 20px;
+            height: auto;
+            background-color: #ffffff;
+            .background_top {
+                position: absolute;
+                left: 0;
+                top: 0;
+                z-index: 0;
+                width: 100%;
+                min-height: 590px;
+                height: 100%;
+                background-position: center center;
+                background-attachment: fixed;
+                background-image: url(../img/termidesk_bg.png);
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
+            .top_section_term {
+                display: block;
+                padding-top: 130px;
+                color: #ffffff;
+                font-size: 24px;
+                line-height: 1.55;
+                font-weight: 700;
+                opacity: 0.95;
+                background-position: center center;
+                border-color: transparent;
+                border-style: solid;
+                margin-bottom: 40px;
+                position: relative;
+                z-index: 3;
+                max-width: 1040px;
+            }
+            .top_section_body_text {
+                display: block;
+                position: relative;
+                z-index: 3;
+                color: #ffffff;
+                font-size: 24px;
+                line-height: 1.3;
+                font-weight: 300;
+                background-position: center center;
+                border-color: transparent;
+                border-style: solid;
+                margin-bottom: 25px;
+                max-width: 1040px;
+            }
+            .background_top_image_next {
+                position: relative;
+                display: block;
+                margin: 65px auto 5px auto;
                 width: 40px;
                 height: 40px;
                 z-index: 3;
