@@ -1457,7 +1457,7 @@ hr {
 .connections_provides {
   opacity: 0; }
   .connections_provides .wrapper .connections_provides_body {
-    padding: 25px 0; }
+    padding: 25px 0 0 0; }
     .connections_provides .wrapper .connections_provides_body .connections_provides_body_title {
       color: #263139;
       font-size: 25px;
@@ -1514,6 +1514,7 @@ hr {
       .connections_provides .wrapper .connections_provides_body span strong {
         font-weight: 700; }
   .connections_provides .wrapper form {
+    padding-top: 25px;
     padding-bottom: 35px; }
     .connections_provides .wrapper form .form_inputsbox {
       justify-content: space-between; }

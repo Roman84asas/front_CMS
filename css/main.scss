@@ -1386,7 +1386,7 @@
     opacity: 0;
     .wrapper {
         .connections_provides_body {
-            padding: 25px 0;
+            padding: 25px 0 0 0;
             .connections_provides_body_title {
                 color: #263139;
                 font-size: 25px;
@@ -1452,6 +1452,7 @@
             }
         }
         form {
+            padding-top: 25px;
             padding-bottom: 35px;
             .form_inputsbox {
                 justify-content: space-between;
