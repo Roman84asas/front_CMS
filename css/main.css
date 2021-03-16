@@ -1573,7 +1573,7 @@ footer {
   min-height: 250px;
   margin-top: 30px; }
   footer .wrapper .body_footer {
-    width: fit-content;
+    width: max-content;
     margin: 65px auto 15px auto;
     max-width: 220px;
     height: auto; }
@@ -1592,7 +1592,7 @@ footer {
     border-color: transparent;
     border-style: solid; }
   footer .wrapper a {
-    width: fit-content;
+    width: max-content;
     margin: 0 auto;
     color: #ffffff;
     font-size: 13px;

@@ -1526,7 +1526,7 @@ footer {
 	margin-top: 30px;
     .wrapper {
         .body_footer {
-            width: fit-content;
+            width: max-content;
             margin: 65px auto 15px auto;
             max-width: 220px;
             height: auto;
@@ -1548,7 +1548,7 @@ footer {
             border-style: solid;
         }
         a {
-            width: fit-content;
+            width: max-content;
             margin: 0 auto;
             color: #ffffff;
             font-size: 13px;
